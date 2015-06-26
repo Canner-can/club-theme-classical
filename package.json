@@ -1,5 +1,5 @@
 {
-  "name": "club-theme-cover",
+  "name": "club-theme-classical",
   "version": "0.0.1",
   "description": "canner can",
   "scripts": {
@@ -7,7 +7,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Canner-can/club-theme-cover"
+    "url": "https://github.com/Canner-can/club-theme-classical"
   },
   "keywords": [
     "canner-can"
@@ -19,7 +19,7 @@
   }],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Canner-can/club-theme-cover/issues"
+    "url": "https://github.com/Canner-can/club-theme-classical/issues"
   },
-  "homepage": "https://github.com/Canner-can/club-theme-cover"
+  "homepage": "https://github.com/Canner-can/club-theme-classical"
 }

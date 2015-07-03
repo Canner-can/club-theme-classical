@@ -48,7 +48,8 @@ footer {
   margin: 20px; }
 
 .photos img {
-  width: 200px; }
+  width: 200px;
+  padding: 10px; }
 
 .photo {
   float: left; }
